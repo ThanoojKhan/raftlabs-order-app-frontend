@@ -29,7 +29,7 @@ export default function TrackOrderPage() {
     const { status, items, totalAmount } = data;
 
     return (
-        <div className="p-6 max-w-xl mx-auto text-center space-y-6">
+        <div className="p-6 max-w-xl mx-auto text-center space-y-6 select-none">
             <h1 className="text-2xl font-bold">Order Status</h1>
 
             <div>

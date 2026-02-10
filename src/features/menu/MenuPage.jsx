@@ -27,7 +27,7 @@ export default function MenuPage() {
     }
 
     return (
-        <div className="p-6 max-w-6xl mx-auto">
+        <div className="p-6 max-w-6xl mx-auto select-none">
             <div className="flex justify-between items-center mb-6">
                 <h1 className="text-2xl font-bold select-none">Menu</h1>
 
